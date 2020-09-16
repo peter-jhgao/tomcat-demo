@@ -1,9 +1,9 @@
 <html>
 <head>
-  <title> Tomcat Demo for CCE </title>
+  <title> Tomcat Demo </title>
 </head>
 <body>
-  <h1>Hello CCE test! - 2019.8.27</h1>
+  <h1>Hello Tomcat! - 2020.09.16</h1>
   <%@include file="test.jsp"%> 
 </body>
 </html>
